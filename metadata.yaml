@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4202
     wikipedia: http://en.wikipedia.org/wiki/Charles_Major
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14242#The-Touchstone-of-Fortune--13-Being-the-Memoir-of-Baron-Clyde-Who-Lived-Thrived-and-Fell-in-t_
 gutenberg_issued: '2004-12-03'
 gutenberg_type: Text
 identifiers:
